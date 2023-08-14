@@ -1,0 +1,7 @@
+{
+  "name": "backloggProject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
